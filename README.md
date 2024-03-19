@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikasRathore16
 - 👀 I’m interested in ... (Happiness)
 - 🌱 I’m currently learning ... (How to work without getting angry)
-- 💞️ I’m looking to collaborate on ... (On Email Only)
+- 💞️ I’m looking to collaborate on ... (Email Only)
 - 📫 How to reach me ...(Kindly Don't Try)
 
 <!---
